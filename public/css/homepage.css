@@ -1,0 +1,233 @@
+body {
+	font-size: 12pt;
+}
+.navbar {
+
+}
+.img-responsive {
+	width: 48px;
+}
+.areapost {
+	margin: 0 0;
+	resize: none;
+	height: 40px;
+	box-shadow: none !important;
+}
+.clearfix {
+	float: none;
+	clear: both;
+}
+/* (320x480) iPhone (Original, 3G, 3GS) */
+@media only screen and (min-device-width: 320px) and (max-device-width: 480px) {
+	/* insert styles here */
+	body {
+		font-family: 'Raleway', sans-serif;
+		font-weight: 400;
+		font-size: 12px;
+		padding-top: 0;
+		padding-bottom: 60px;
+	}
+	.navbar {
+		top: auto;
+		bottom: 0;
+	}
+	.navbar .navbar-brand,
+	.navbar .search-form {
+		display: none;
+	}
+	.zmdi-hc-lg {
+		font-size: 14pt;
+	}
+	.p-2x {
+		padding: 0.6em 1.22em;
+	}
+	.header-post .nav .nav-item .nav-link {
+		padding-top: 5px;
+		padding-bottom: 5px;
+	}
+	.header-post .header-post-title {
+		display: none;
+	}
+	#status .btn-post {
+		font-size: 12px;
+	}
+	#status .areapost {
+		font-size: 12px;
+		margin: 0 0;
+		resize: none;
+		height: 40px;
+		box-shadow: none !important;
+	}
+}
+
+/* (320x480) Smartphone, Portrait */
+@media only screen and (device-width: 320px) and (orientation: portrait) {
+	/* insert styles here */
+}
+
+/* (320x480) Smartphone, Landscape */
+@media only screen and (device-width: 480px) and (orientation: landscape) {
+	/* insert styles here */
+}
+
+/* (360x480) Smartphone, Portrait */
+@media only screen and (device-width: 360px) and (orientation: portrait) {
+	/* insert styles here */
+	body {
+		font-family: 'Raleway', sans-serif;
+		font-weight: 400;
+		font-size: 16px;
+		padding-top: 0;
+		padding-bottom: 60px;
+	}
+	.navbar {
+		top: auto;
+		bottom: 0;
+	}
+	.navbar .navbar-brand,
+	.navbar .search-form {
+		display: none;
+	}
+	#toolbar .zmdi-hc-lg {
+		font-size: 20pt;
+	}
+	#toolbar .p-2x {
+		padding: 0.8em 0.8em;
+	}
+	#status .areapost {
+		font-size: 14px;
+		margin: 0 0;
+		resize: none;
+		height: 40px;
+		box-shadow: none !important;
+	}
+}
+
+/* (480x800) Android */
+@media only screen and (min-device-width: 480px) and (max-device-width: 800px) {
+	/* insert styles here */
+}
+
+/* (640x960) iPhone 4 & 4S */
+@media only screen and (min-device-width: 640px) and (max-device-width: 960px) {
+	/* insert styles here */
+}
+
+/* (720x1280) Galaxy Nexus, WXGA */
+@media only screen and (min-device-width: 720px) and (max-device-width: 1280px) {
+	/* insert styles here */
+}
+
+/* (720x1280) Galaxy Nexus, Landscape */
+@media only screen and (min-device-width: 720px) and (max-device-width: 1280px) and (orientation: landscape) {
+	/* insert styles here */
+}
+
+/* (1024x768) iPad 1 & 2, XGA */
+@media only screen and (min-device-width: 768px) and (max-device-width: 1024px) {
+	/* insert styles here */
+}
+
+/* (768x1024) iPad 1 & 2, Portrait */
+@media only screen and (min-device-width: 768px) and (max-device-width: 1024px) and (orientation: portrait) {
+	/* insert styles here */
+}
+
+/* (1024x768) iPad 1 & 2, Landscape */
+@media only screen and (min-device-width: 768px) and (max-device-width: 1024px) and (orientation: landscape) {
+	/* insert styles here */
+}
+
+/* (2048x1536) iPad 3 */
+@media only screen and (min-device-width: 1536px) and (max-device-width: 2048px) {
+	/* insert styles here */
+}
+
+/* (1280x720) Galaxy Note 2, WXGA */
+@media only screen and (min-device-width: 720px) and (max-device-width: 1280px) {
+	/* insert styles here */
+}
+
+/* (1366x768) WXGA Display */
+@media  screen and (max-width: 1366px) {
+	/* insert styles here */
+}
+
+/* (1280x1024) SXGA Display */
+@media  screen and (max-width: 1280px) {
+	/* insert styles here */
+}
+
+/* (1440x900) WXGA+ Display */
+@media  screen and (max-width: 1440px) {
+	/* insert styles here */
+}
+
+/* (1680x1050) WSXGA+ Display */
+@media  screen and (max-width: 1680px) {
+	/* insert styles here */
+}
+
+/* (1920x1080) Full HD Display */
+@media  screen and (max-width: 1920px) {
+	/* insert styles here */
+}
+
+/* (1600x900) HD+ Display */
+@media  screen and (max-width: 1600px) {
+	/* insert styles here */
+}
+
+/**
+ * Stylesheet for homepage
+ */
+html {
+	font-family: 'Raleway', sans-serif;
+}
+body {
+	font-family: 'Raleway', sans-serif;
+	font-weight: 400;
+	padding-top: 60px;
+}
+input[type="text"],
+input[type="search"],
+textarea {
+	box-shadow: none !important;
+}
+.form-control.areapost {
+    resize: none;
+}
+.maroon {
+	background-color: #c62828;
+}
+button[type="button"] {
+	outline: none;
+}
+div.numberedtextarea-wrapper { position: relative; }
+
+div.numberedtextarea-wrapper textarea {
+	display: block;
+	-webkit-box-sizing: border-box;
+	-moz-box-sizing: border-box;
+	box-sizing: border-box;
+}
+
+div.numberedtextarea-line-numbers {
+	position: absolute;
+	top: 0;
+	left: 0;
+	right: 0;
+	bottom: 0;
+	width: 40px;
+	border-right: 1px solid rgba(0, 0, 0, 0.15);
+	color: rgba(0, 0, 0, 0.15);
+	overflow: hidden;
+}
+
+div.numberedtextarea-number {
+	padding-right: 12px;
+	text-align: right;
+}
+.clearfix {
+    clear: both;
+}

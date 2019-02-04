@@ -1,0 +1,90 @@
+html {
+    position: relative;
+    min-height: 100%;
+}
+body {
+    font-family: 'Raleway', sans-serif;
+    padding-top: 50px;
+    /* Margin bottom by footer height */
+    margin-bottom: 60px;
+}
+.navbar {
+    background-color: red;
+    box-shadow: 0 0 4px #333;
+}
+.banner {
+    height: 500px;
+}
+@media (max-width: 768px) {
+    body > .container {
+        padding: 0;
+    }
+}
+@media (max-width: 576px) {
+    .form-search {
+        display: none;
+    }
+}
+.btn-search {
+    cursor: pointer;
+}
+.navbar-toggler:focus,
+.btn-search:focus {
+    outline: none;
+}
+.footer {
+  position: absolute;
+  bottom: 0;
+  width: 100%;
+  /* Set the fixed height of the footer here */
+  height: 80px;
+  line-height: 20px; /* Vertically center the text there */
+  background-color: #f5f5f5;
+}
+
+
+/* Custom page CSS
+-------------------------------------------------- */
+/* Not required for template or sticky footer method. */
+
+body > .container {
+  padding: 60px 15px 0;
+}
+
+.footer > .container {
+  padding-right: 15px;
+  padding-left: 15px;
+}
+
+code {
+  font-size: 80%;
+}
+input[type="search"]:focus {
+    box-shadow: 0 1px 1px transparent;
+    outline: 0 none;
+}
+
+@media (min-width: 576px)
+{
+    .form-search {
+        display: none;
+    }
+}
+@media (max-width: 768px)
+{
+    .form-search {
+        display: none;
+    }
+    .footer {
+      height: 120px;
+    }
+}
+
+input[type="text"]:focus,
+input[type="email"]:focus,
+input[type="password"]:focus {
+    border-color: #66afe9;
+    outline: 0;
+    -webkit-box-shadow: inset 0 1px 1px rgba(0,0,0,.075),0 0 8px rgba(102,175,233,.6);
+    box-shadow: none!important;
+}

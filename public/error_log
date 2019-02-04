@@ -1,0 +1,52 @@
+[06-Feb-2018 03:06:55 UTC] PHP Parse error:  syntax error, unexpected '__DIR__' (T_DIR) in /home/apolboxc/public_html/index.php on line 3
+[06-Feb-2018 03:07:04 UTC] PHP Parse error:  syntax error, unexpected '__DIR__' (T_DIR) in /home/apolboxc/public_html/index.php on line 3
+[06-Feb-2018 03:07:40 UTC] PHP Parse error:  syntax error, unexpected '__DIR__' (T_DIR) in /home/apolboxc/public_html/index.php on line 3
+[06-Feb-2018 03:07:45 UTC] PHP Parse error:  syntax error, unexpected '__DIR__' (T_DIR) in /home/apolboxc/public_html/index.php on line 3
+[06-Feb-2018 03:07:58 UTC] PHP Parse error:  syntax error, unexpected '__DIR__' (T_DIR) in /home/apolboxc/public_html/index.php on line 3
+[06-Feb-2018 08:10:07 UTC] PHP Warning:  require_once(/home/apolboxc/vendor/composer/autoload_real.php): failed to open stream: No such file or directory in /home/apolboxc/vendor/autoload.php on line 5
+[06-Feb-2018 08:10:07 UTC] PHP Fatal error:  require_once(): Failed opening required '/home/apolboxc/vendor/composer/autoload_real.php' (include_path='.:/opt/alt/php71/usr/share/pear') in /home/apolboxc/vendor/autoload.php on line 5
+[06-Feb-2018 08:10:10 UTC] PHP Warning:  require_once(/home/apolboxc/vendor/composer/autoload_real.php): failed to open stream: No such file or directory in /home/apolboxc/vendor/autoload.php on line 5
+[06-Feb-2018 08:10:10 UTC] PHP Fatal error:  require_once(): Failed opening required '/home/apolboxc/vendor/composer/autoload_real.php' (include_path='.:/opt/alt/php71/usr/share/pear') in /home/apolboxc/vendor/autoload.php on line 5
+[06-Feb-2018 08:10:56 UTC] PHP Warning:  require_once(/home/apolboxc/vendor/composer/autoload_real.php): failed to open stream: No such file or directory in /home/apolboxc/vendor/autoload.php on line 5
+[06-Feb-2018 08:10:56 UTC] PHP Fatal error:  require_once(): Failed opening required '/home/apolboxc/vendor/composer/autoload_real.php' (include_path='.:/opt/alt/php71/usr/share/pear') in /home/apolboxc/vendor/autoload.php on line 5
+[06-Feb-2018 08:11:10 UTC] PHP Warning:  require_once(/home/apolboxc/vendor/composer/autoload_real.php): failed to open stream: No such file or directory in /home/apolboxc/vendor/autoload.php on line 5
+[06-Feb-2018 08:11:10 UTC] PHP Fatal error:  require_once(): Failed opening required '/home/apolboxc/vendor/composer/autoload_real.php' (include_path='.:/opt/alt/php71/usr/share/pear') in /home/apolboxc/vendor/autoload.php on line 5
+[06-Feb-2018 08:14:08 UTC] PHP Warning:  require_once(/home/apolboxc/vendor/composer/autoload_real.php): failed to open stream: No such file or directory in /home/apolboxc/vendor/autoload.php on line 5
+[06-Feb-2018 08:14:08 UTC] PHP Fatal error:  require_once(): Failed opening required '/home/apolboxc/vendor/composer/autoload_real.php' (include_path='.:/opt/alt/php71/usr/share/pear') in /home/apolboxc/vendor/autoload.php on line 5
+[06-Feb-2018 08:14:13 UTC] PHP Warning:  require_once(/home/apolboxc/vendor/composer/autoload_real.php): failed to open stream: No such file or directory in /home/apolboxc/vendor/autoload.php on line 5
+[06-Feb-2018 08:14:13 UTC] PHP Fatal error:  require_once(): Failed opening required '/home/apolboxc/vendor/composer/autoload_real.php' (include_path='.:/opt/alt/php71/usr/share/pear') in /home/apolboxc/vendor/autoload.php on line 5
+[06-Feb-2018 08:14:13 UTC] PHP Warning:  require_once(/home/apolboxc/vendor/composer/autoload_real.php): failed to open stream: No such file or directory in /home/apolboxc/vendor/autoload.php on line 5
+[06-Feb-2018 08:14:13 UTC] PHP Fatal error:  require_once(): Failed opening required '/home/apolboxc/vendor/composer/autoload_real.php' (include_path='.:/opt/alt/php71/usr/share/pear') in /home/apolboxc/vendor/autoload.php on line 5
+[06-Feb-2018 08:15:54 UTC] PHP Warning:  require_once(/home/apolboxc/vendor/composer/autoload_real.php): failed to open stream: No such file or directory in /home/apolboxc/vendor/autoload.php on line 5
+[06-Feb-2018 08:15:54 UTC] PHP Fatal error:  require_once(): Failed opening required '/home/apolboxc/vendor/composer/autoload_real.php' (include_path='.:/opt/alt/php71/usr/share/pear') in /home/apolboxc/vendor/autoload.php on line 5
+[06-Feb-2018 08:19:00 UTC] PHP Warning:  require_once(/home/apolboxc/vendor/composer/autoload_real.php): failed to open stream: No such file or directory in /home/apolboxc/vendor/autoload.php on line 5
+[06-Feb-2018 08:19:00 UTC] PHP Fatal error:  require_once(): Failed opening required '/home/apolboxc/vendor/composer/autoload_real.php' (include_path='.:/opt/alt/php71/usr/share/pear') in /home/apolboxc/vendor/autoload.php on line 5
+[06-Feb-2018 08:19:04 UTC] PHP Warning:  require_once(/home/apolboxc/vendor/composer/autoload_real.php): failed to open stream: No such file or directory in /home/apolboxc/vendor/autoload.php on line 5
+[06-Feb-2018 08:19:04 UTC] PHP Fatal error:  require_once(): Failed opening required '/home/apolboxc/vendor/composer/autoload_real.php' (include_path='.:/opt/alt/php71/usr/share/pear') in /home/apolboxc/vendor/autoload.php on line 5
+[06-Feb-2018 08:19:32 UTC] PHP Warning:  require_once(/home/apolboxc/vendor/composer/autoload_real.php): failed to open stream: No such file or directory in /home/apolboxc/vendor/autoload.php on line 5
+[06-Feb-2018 08:19:32 UTC] PHP Fatal error:  require_once(): Failed opening required '/home/apolboxc/vendor/composer/autoload_real.php' (include_path='.:/opt/alt/php71/usr/share/pear') in /home/apolboxc/vendor/autoload.php on line 5
+[06-Feb-2018 08:20:55 UTC] PHP Warning:  require_once(/home/apolboxc/vendor/composer/autoload_real.php): failed to open stream: No such file or directory in /home/apolboxc/vendor/autoload.php on line 5
+[06-Feb-2018 08:20:55 UTC] PHP Fatal error:  require_once(): Failed opening required '/home/apolboxc/vendor/composer/autoload_real.php' (include_path='.:/opt/alt/php71/usr/share/pear') in /home/apolboxc/vendor/autoload.php on line 5
+[06-Feb-2018 08:26:02 UTC] PHP Warning:  require_once(/home/apolboxc/vendor/composer/autoload_real.php): failed to open stream: No such file or directory in /home/apolboxc/vendor/autoload.php on line 5
+[06-Feb-2018 08:26:02 UTC] PHP Fatal error:  require_once(): Failed opening required '/home/apolboxc/vendor/composer/autoload_real.php' (include_path='.:/opt/alt/php71/usr/share/pear') in /home/apolboxc/vendor/autoload.php on line 5
+[06-Feb-2018 08:30:03 UTC] PHP Warning:  require_once(/home/apolboxc/vendor/composer/autoload_real.php): failed to open stream: No such file or directory in /home/apolboxc/vendor/autoload.php on line 5
+[06-Feb-2018 08:30:03 UTC] PHP Fatal error:  require_once(): Failed opening required '/home/apolboxc/vendor/composer/autoload_real.php' (include_path='.:/opt/alt/php71/usr/share/pear') in /home/apolboxc/vendor/autoload.php on line 5
+[06-Feb-2018 08:30:03 UTC] PHP Warning:  require_once(/home/apolboxc/vendor/composer/autoload_real.php): failed to open stream: No such file or directory in /home/apolboxc/vendor/autoload.php on line 5
+[06-Feb-2018 08:30:03 UTC] PHP Fatal error:  require_once(): Failed opening required '/home/apolboxc/vendor/composer/autoload_real.php' (include_path='.:/opt/alt/php71/usr/share/pear') in /home/apolboxc/vendor/autoload.php on line 5
+[06-Feb-2018 08:30:56 UTC] PHP Warning:  require_once(/home/apolboxc/vendor/composer/autoload_real.php): failed to open stream: No such file or directory in /home/apolboxc/vendor/autoload.php on line 5
+[06-Feb-2018 08:30:56 UTC] PHP Fatal error:  require_once(): Failed opening required '/home/apolboxc/vendor/composer/autoload_real.php' (include_path='.:/opt/alt/php71/usr/share/pear') in /home/apolboxc/vendor/autoload.php on line 5
+[06-Feb-2018 08:34:17 UTC] PHP Warning:  require_once(/home/apolboxc/vendor/composer/autoload_real.php): failed to open stream: No such file or directory in /home/apolboxc/vendor/autoload.php on line 5
+[06-Feb-2018 08:34:17 UTC] PHP Fatal error:  require_once(): Failed opening required '/home/apolboxc/vendor/composer/autoload_real.php' (include_path='.:/opt/alt/php71/usr/share/pear') in /home/apolboxc/vendor/autoload.php on line 5
+[06-Feb-2018 08:34:17 UTC] PHP Warning:  require_once(/home/apolboxc/vendor/composer/autoload_real.php): failed to open stream: No such file or directory in /home/apolboxc/vendor/autoload.php on line 5
+[06-Feb-2018 08:34:17 UTC] PHP Fatal error:  require_once(): Failed opening required '/home/apolboxc/vendor/composer/autoload_real.php' (include_path='.:/opt/alt/php71/usr/share/pear') in /home/apolboxc/vendor/autoload.php on line 5
+[06-Feb-2018 08:35:58 UTC] PHP Warning:  require_once(/home/apolboxc/vendor/composer/autoload_real.php): failed to open stream: No such file or directory in /home/apolboxc/vendor/autoload.php on line 5
+[06-Feb-2018 08:35:58 UTC] PHP Fatal error:  require_once(): Failed opening required '/home/apolboxc/vendor/composer/autoload_real.php' (include_path='.:/opt/alt/php71/usr/share/pear') in /home/apolboxc/vendor/autoload.php on line 5
+[06-Mar-2018 08:14:26 UTC] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in /home/apolboxc/vendor/vlucas/phpdotenv/src/Loader.php on line 135
+[06-Mar-2018 12:16:00 UTC] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in /home/apolboxc/vendor/laravel/framework/src/Illuminate/View/Compilers/Concerns/CompilesInjections.php on line 5
+[06-Mar-2018 12:16:02 UTC] PHP Fatal error:  Uncaught TypeError: Argument 1 passed to Illuminate\View\Engines\CompilerEngine::__construct() must be an instance of Illuminate\View\Compilers\CompilerInterface, instance of Illuminate\View\Compilers\BladeCompiler given, called in /home/apolboxc/vendor/laravel/framework/src/Illuminate/View/ViewServiceProvider.php on line 146 and defined in /home/apolboxc/vendor/laravel/framework/src/Illuminate/View/Engines/CompilerEngine.php:31
+Stack trace:
+#0 /home/apolboxc/vendor/laravel/framework/src/Illuminate/View/ViewServiceProvider.php(146): Illuminate\View\Engines\CompilerEngine->__construct(Object(Illuminate\View\Compilers\BladeCompiler))
+#1 [internal function]: Illuminate\View\ViewServiceProvider->Illuminate\View\{closure}()
+#2 /home/apolboxc/vendor/laravel/framework/src/Illuminate/View/Engines/EngineResolver.php(54): call_user_func(Object(Closure))
+#3 /home/apolboxc/vendor/laravel/framework/src/Illuminate/View/Factory.php(284): Illuminate\View\Engines\EngineResolver->resolve('blade')
+#4 /home/apolboxc/vendor/larav in /home/apolboxc/vendor/laravel/framework/src/Illuminate/View/Engines/CompilerEngine.php on line 31
